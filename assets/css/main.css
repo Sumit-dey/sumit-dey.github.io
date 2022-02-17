@@ -33,6 +33,9 @@ body {
 	line-height: 1;
 }
 
+.tech{
+	margin-top:30px ;
+}
 ol, ul {
 	list-style: none;
 }
@@ -2631,7 +2634,7 @@ input, select, textarea {
 		#header h2, #header h3, #header h4, #header h5, #header h6 {
 			color: #ffffffc2;
 		}
-	
+
 		#header h2{
 			font-size: 1.25em;
 			margin-bottom: 30px;
